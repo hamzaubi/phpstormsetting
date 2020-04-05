@@ -1,3 +1,5 @@
 <templateSet group="Vue">
-  <template name="vanim" value="&lt;transition&#10; mode=&quot;out-in&quot;&#10; @before-enter=&quot;beforeEnter&quot;&#10; @enter=&quot;enter&quot;&#10;&#10; @before-leave=&quot;beforeLeave&quot;&#10; @leave=&quot;leave&quot;&#10; :css=&quot;false&quot;&gt;&#10;&#10;&lt;/transition&gt;" description="Vue transition component with JavaScript hooks" toReformat="true" toShortenFQNames="true" />
+  <template name="vanim" value="&lt;transition&#10; mode=&quot;out-in&quot;&#10; @before-enter=&quot;beforeEnter&quot;&#10; @enter=&quot;enter&quot;&#10;&#10; @before-leave=&quot;beforeLeave&quot;&#10; @leave=&quot;leave&quot;&#10; :css=&quot;false&quot;&gt;&#10;&#10;&lt;/transition&gt;" description="Vue transition component with JavaScript hooks" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
